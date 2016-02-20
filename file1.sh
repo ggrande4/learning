@@ -1,7 +1,7 @@
 #!/bin/bash
 # Git Version Control System Cookbook
 # Chapter 1 - Navigating Git
-#
+
 # Copyright 2014 Aske Olsson
 #
 
